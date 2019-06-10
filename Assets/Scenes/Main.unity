@@ -413,7 +413,7 @@ MonoBehaviour:
     spaceCount: 17
     wordCount: 18
     linkCount: 0
-    lineCount: 3
+    lineCount: 4
     pageCount: 1
     materialCount: 1
   m_isUsingLegacyAnimationComponent: 0
@@ -890,7 +890,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 962928571}
-        m_MethodName: Generate
+        m_MethodName: GenerateAndShow
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
